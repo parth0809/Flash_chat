@@ -44,8 +44,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCWqEaFgvV6vqidjBk9Lsstjlh6NEXpq5M',
-    appId: '1:69800866200:web:333e5372e7389a606c3bed',
+    apiKey:,
+    appId: ,
     messagingSenderId: '69800866200',
     projectId: 'flash-app-dd160',
     authDomain: 'flash-app-dd160.firebaseapp.com',
@@ -53,16 +53,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDhdCk2f0nb8Myy_XNaCd88WgRzNw90ZM0',
-    appId: '1:69800866200:android:be1c65e4d7e1f4de6c3bed',
+    apiKey: ,
+    appId: ,
     messagingSenderId: '69800866200',
     projectId: 'flash-app-dd160',
     storageBucket: 'flash-app-dd160.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAV1qxEP2USlMMVrXE4gQ1UQ19jU8TacZE',
-    appId: '1:69800866200:ios:22380ab21a2c6b1b6c3bed',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '69800866200',
     projectId: 'flash-app-dd160',
     storageBucket: 'flash-app-dd160.appspot.com',
@@ -70,8 +70,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAV1qxEP2USlMMVrXE4gQ1UQ19jU8TacZE',
-    appId: '1:69800866200:ios:31c9c853b73e91dd6c3bed',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '69800866200',
     projectId: 'flash-app-dd160',
     storageBucket: 'flash-app-dd160.appspot.com',
